@@ -1,0 +1,181 @@
+[{
+    "name": {
+      "first": "bruce",
+      "last": "carter"
+    },
+    "email": "bruce.carter@example.com",
+    "phone": "041-355-4191",
+    "id": 1,
+    "picture": "https://randomuser.me/api/portraits/men/24.jpg"
+  }, {
+    "name": {
+      "first": "eládio",
+      "last": "silva"
+    },
+    "email": "eládio.silva@example.com",
+    "phone": "(44) 6130-9859",
+    "id": 2,
+    "picture": "https://randomuser.me/api/portraits/men/31.jpg"
+  }, {
+    "name": {
+      "first": "نيما",
+      "last": "کوتی"
+    },
+    "email": "نيما.کوتی@example.com",
+    "phone": "041-17455977",
+    "id": 3,
+    "picture": "https://randomuser.me/api/portraits/men/95.jpg"
+  }, {
+    "name": {
+      "first": "leo",
+      "last": "salmela"
+    },
+    "email": "leo.salmela@example.com",
+    "phone": "09-059-712",
+    "id": 4,
+    "picture": "https://randomuser.me/api/portraits/men/47.jpg"
+  }, {
+    "name": {
+      "first": "eren",
+      "last": "okur"
+    },
+    "email": "eren.okur@example.com",
+    "phone": "(888)-012-8797",
+    "id": 5,
+    "picture": "https://randomuser.me/api/portraits/men/15.jpg"
+  }, {
+    "name": {
+      "first": "don",
+      "last": "adams"
+    },
+    "email": "don.adams@example.com",
+    "phone": "09-6118-0906",
+    "id": 6,
+    "picture": "https://randomuser.me/api/portraits/men/50.jpg"
+  }, {
+    "name": {
+      "first": "wade",
+      "last": "morris"
+    },
+    "email": "wade.morris@example.com",
+    "phone": "015395 88400",
+    "id": 7,
+    "picture": "https://randomuser.me/api/portraits/men/47.jpg"
+  }, {
+    "name": {
+      "first": "james",
+      "last": "denys"
+    },
+    "email": "james.denys@example.com",
+    "phone": "536-660-7569",
+    "id": 8,
+    "picture": "https://randomuser.me/api/portraits/men/39.jpg"
+  }, {
+    "name": {
+      "first": "lilly",
+      "last": "barbier"
+    },
+    "email": "lilly.barbier@example.com",
+    "phone": "(413)-503-3471",
+    "id": 9,
+    "picture": "https://randomuser.me/api/portraits/women/37.jpg"
+  }, {
+    "name": {
+      "first": "nanna",
+      "last": "madsen"
+    },
+    "email": "nanna.madsen@example.com",
+    "phone": "09607288",
+    "id": 10,
+    "picture": "https://randomuser.me/api/portraits/women/85.jpg"
+  }, {
+    "name": {
+      "first": "kerim",
+      "last": "orbay"
+    },
+    "email": "kerim.orbay@example.com",
+    "phone": "(203)-292-2478",
+    "id": 11,
+    "picture": "https://randomuser.me/api/portraits/men/88.jpg"
+  }, {
+    "name": {
+      "first": "mario",
+      "last": "dean"
+    },
+    "email": "mario.dean@example.com",
+    "phone": "(596)-597-7737",
+    "id": 12,
+    "picture": "https://randomuser.me/api/portraits/men/48.jpg"
+  }, {
+    "name": {
+      "first": "ahmet",
+      "last": "yazıcı"
+    },
+    "email": "ahmet.yazıcı@example.com",
+    "phone": "(476)-237-9743",
+    "id": 13,
+    "picture": "https://randomuser.me/api/portraits/men/18.jpg"
+  }, {
+    "name": {
+      "first": "emily",
+      "last": "roy"
+    },
+    "email": "emily.roy@example.com",
+    "phone": "687-050-9980",
+    "id": 14,
+    "picture": "https://randomuser.me/api/portraits/women/81.jpg"
+  }, {
+    "name": {
+      "first": "wesley",
+      "last": "jennings"
+    },
+    "email": "wesley.jennings@example.com",
+    "phone": "017687 33890",
+    "id": 15,
+    "picture": "https://randomuser.me/api/portraits/men/46.jpg"
+  }, {
+    "name": {
+      "first": "wiard",
+      "last": "yeung"
+    },
+    "email": "wiard.yeung@example.com",
+    "phone": "(385)-789-0317",
+    "id": 16,
+    "picture": "https://randomuser.me/api/portraits/men/22.jpg"
+  }, {
+    "name": {
+      "first": "کیانا",
+      "last": "نجاتی"
+    },
+    "email": "کیانا.نجاتی@example.com",
+    "phone": "091-82665530",
+    "id": 17,
+    "picture": "https://randomuser.me/api/portraits/women/31.jpg"
+  }, {
+    "name": {
+      "first": "manuela",
+      "last": "marin"
+    },
+    "email": "manuela.marin@example.com",
+    "phone": "953-241-654",
+    "id": 18,
+    "picture": "https://randomuser.me/api/portraits/women/78.jpg"
+  }, {
+    "name": {
+      "first": "sophia",
+      "last": "cox"
+    },
+    "email": "sophia.cox@example.com",
+    "phone": "(830)-096-5140",
+    "id": 19,
+    "picture": "https://randomuser.me/api/portraits/women/92.jpg"
+  }, {
+    "name": {
+      "first": "jeremy",
+      "last": "green"
+    },
+    "email": "jeremy.green@example.com",
+    "phone": "03-9777-9302",
+    "id": 20,
+    "picture": "https://randomuser.me/api/portraits/men/45.jpg"
+  }]
